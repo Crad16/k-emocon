@@ -68,5 +68,5 @@ strength and the smoothing window.
 - Boucsein, W. (2012). *Electrodermal Activity* (2nd ed.). Springer.
 
 ## Acknowledgement
-- The project is based on the final project of KAIST CS.50605 / DS.50202 IoT Data Science course.
+- The project is based on the final project of 2026 Spring KAIST CS.50605 / DS.50202 IoT Data Science course.
 - I gratefully acknowledge the creators of this dataset and project, and the professor who taught the course.
