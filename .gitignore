@@ -1,0 +1,9 @@
+# Dataset — large & access-controlled, never commit
+*.pkl
+K-EmoCon*.pkl
+
+# Jupyter / Python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
