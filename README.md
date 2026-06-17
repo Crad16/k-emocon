@@ -70,3 +70,7 @@ strength and the smoothing window.
 ## Acknowledgement
 - The project is based on the final project of 2026 Spring KAIST CS.50605 / DS.50202 IoT Data Science course.
 - I gratefully acknowledge the creators of this dataset and project, and the professor who taught the course.
+
+## Slides
+- You can see the final slides used for final presentation in the link below:
+- https://docs.google.com/presentation/d/1GRj3ZPY8DTEuk58sHowO19LvB8u5uRPLFOCMwqwAzlI/edit?slide=id.g3ed8f844c8b_0_0#slide=id.g3ed8f844c8b_0_0
