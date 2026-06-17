@@ -2,7 +2,7 @@
 
 Binary **arousal** recognition from a single wearable signal — the Empatica E4
 **electrodermal activity (EDA)** — on the KAIST **K-EmoCon** dataset.
-CS565 / DS522 · IoT Data Science.
+CS.50605 / DS.50022 · IoT Data Science.
 
 **Author:** Gyeongmin Na
 
