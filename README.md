@@ -2,7 +2,7 @@
 
 Binary **arousal** recognition from a single wearable signal — the Empatica E4
 **electrodermal activity (EDA)** — on the KAIST **K-EmoCon** dataset.
-CS565 / DS522 · IoT Data Science.
+CS.50605 / DS.50202 · IoT Data Science.
 
 **Author:** Gyeongmin Na
 
@@ -49,8 +49,11 @@ strength and the smoothing window.
 
 ## Notebook structure
 `K_EmoCon_Gyeongmin Na.ipynb`
-1. Preparation · 2. Preprocessing · 3. DNN model · 4. Training & Evaluation ·
-5. Bonus — the EDA-feature + Logistic Regression + temporal-smoothing pipeline (the contribution).
+1. Preparation
+2. Preprocessing
+3. DNN model
+4. Training & Evaluation
+5. Bonus — the EDA-feature + Logistic Regression + temporal-smoothing pipeline (the contribution)
 
 ## Reproducibility
 - Seed 42; fixed folds; the scaler and model are fit on the **training fold only** (no leakage).
