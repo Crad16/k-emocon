@@ -66,3 +66,7 @@ strength and the smoothing window.
 - Pedregosa, F., et al. (2011). *Scikit-learn: Machine Learning in Python.* JMLR, 12, 2825–2830.
 - Virtanen, P., et al. (2020). *SciPy 1.0.* Nature Methods, 17, 261–272.
 - Boucsein, W. (2012). *Electrodermal Activity* (2nd ed.). Springer.
+
+## Acknowledgement
+- The project is based on the final project of KAIST CS.50605 / DS.50202 IoT Data Science course.
+- I gratefully acknowledge the creators of this dataset and project, and the professor who taught the course.
